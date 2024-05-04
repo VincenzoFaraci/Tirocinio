@@ -1,0 +1,2 @@
+L'applicazione gestisce la creazione, la visualizzazione, l'aggiornamento e l'eliminazione di blog e utenti, 
+utilizzando la crittografia delle password, la generazione e la verifica dei token JWT per l'autenticazione degli utenti.
